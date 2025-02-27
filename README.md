@@ -2,8 +2,8 @@
 I'm **Zachary Martinson** a passionate **Android developer** working with **Android Studio and Computer Vision**. I come from a VFX background and trying to bring that to the tech world along with the new tech.
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on `Chat-Bot & AR Development`
-- 🌱 I’m learning `Spring Boot and Docker`
+- 🔭 I’m currently working on `CI/CD & Computer Vision Models`
+- 🌱 I’m learning `Continuous Dev & Making Custom Nodes in Tensorflow`
 - ⚡ Fun Fact: `I actually started coding with C++ when I was 9 years old.`  
 - 📫 How to reach me: zach.martinson.dev@gmail.com
 

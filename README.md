@@ -2,7 +2,7 @@
 I'm **Zachary Martinson** a passionate **Android developer** working with **Android Studio and Computer Vision**. I come from a VFX background and trying to bring that to the tech world along with the new tech.
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on `CI/CD & Computer Vision Models`
+- 🔭 I’m currently working on `CI/CD & Computer Vision Models (Face Recognition)`
 - 🌱 I’m learning `Continuous Development & Making Custom Nodes in Tensorflow`
 - ⚡ Fun Fact: `I actually started coding with C++ when I was 9 years old.`  
 - 📫 How to reach me: zach.martinson.dev@gmail.com
